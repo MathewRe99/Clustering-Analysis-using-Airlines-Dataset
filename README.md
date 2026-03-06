@@ -2,6 +2,7 @@
 This repository introduces clustering algorithms, including K-Means, Hierarchical Clustering, and DBSCAN, and provides hands-on experience in applying these techniques to a real-world dataset.
 
 Clustering Methodology and Evaluation
+
 A.1 Preprocessing
 The dataset was preprocessed prior to clustering to ensure consistency and comparability across methods. Standardization and normalization techniques were applied where appropriate to prepare the data for distance-based algorithms.
 
